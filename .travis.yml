@@ -1,0 +1,13 @@
+dist: xenial
+before_install:
+    - wget http://apertium.projectjj.com/apt/install-nightly.sh -O - | sudo bash
+    - sudo apt-get install apertium-all-dev
+script:
+    - ./autogen.sh
+    - make
+notifications:
+    irc:
+        channels:
+            - "chat.freenode.net#apertium"
+        on_failure: always
+        on_success: never
