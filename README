@@ -31,7 +31,7 @@ Compiling
 Given the requirements being installed, you should be able to just run:
 
 ```console
-$ ./configure
+$ ./configure ./configure --with-lang1=../apertium-eng --with-lang2=../apertium-ibo
 $ make
 # make install
 ```
