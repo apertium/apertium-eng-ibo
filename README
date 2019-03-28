@@ -36,7 +36,8 @@ $ make
 # make install
 ```
 
-You can use `./autogen.sh` instead of `./configure` in case you're compiling
+You can use `./autogen.sh --with-lang1=../apertium-eng --with-lang2=../apertium-ibo`
+instead of `./configure` in case you're compiling
 from source. If you installed any prerequisite language packages using a
 `--prefix` with `./configure`, make sure to use the same `--prefix` when running
 `./configure` here.
@@ -48,18 +49,18 @@ If you are in the source directory after running make, the following
 commands should work:
 
 ```console
-$ echo "TODO test sentence 1" | apertium -d . eng-ibo
-TODO test translated sentence 1
+$ echo "house" | apertium -d . eng-ibo
+#akpa#
 
-$ echo "TODO test sentence 2" | apertium -d . ibo-eng
-TODO test translated sentence 2
+$ echo "akpa" | apertium -d . ibo-eng
+#house
 ```
 
 After installing somewhere in `$PATH`, you should be able to do e.g.
 
 ```console
-$ echo "TODO test sentence 1" | apertium eng-ibo
-TODO test translated sentence 1
+$ echo "house" | apertium eng-ibo
+#akpa#
 ```
 
 Files and data
