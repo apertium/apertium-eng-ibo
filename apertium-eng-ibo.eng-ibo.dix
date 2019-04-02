@@ -12,6 +12,7 @@
     <sdef n="vaux"            c="Auxiliary verb"/>
     <sdef n="vbser"           c="'To be' verb"/>
     <sdef n="vbhaver"         c="'To have' verb"/>
+    <sdef n="vbdo" 	      c="Verb 'to do'"/> 
     <sdef n="cnjsub"          c="Subordinating conjunction"/>
     <sdef n="cnjcoo"          c="Co-ordinating conjunction"/>
     <sdef n="cnjadv"          c="Adverbial conjunction"/>
@@ -95,14 +96,190 @@
     <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
   </sdefs>
 
-   <section id="main" type="standard">
-      <!-- Define entries within <e> here. -->
-      <e><p><l>house<s n="n"/></l><r>akpa<s n="n"/></r></p></e>
+    <section id="main" type="standard">
+    <!-- Define entries within <e> here. -->
+    
+    <!-- SECTION: nouns -->
+    <e><p><l>house<s n="n"/></l><r>ụlọ<s n="n"/></r></p></e>
+    <e><p><l>foot<s n="n"/></l><r>ukwu<s n="n"/></r></p></e>
+    <e><p><l>bird<s n="n"/></l><r>nnụnụ<s n="n"/></r></p></e>
+    <e><p><l>dog<s n="n"/></l><r>nkịta<s n="n"/></r></p></e>
+    <e><p><l>cat<s n="n"/></l><r>buusu<s n="n"/></r></p></e>
+    <e><p><l>mother<s n="n"/></l><r>nne<s n="n"/></r></p></e>
+    <e><p><l>game<s n="n"/></l><r>egwuregwu<s n="n"/></r></p></e>
+    <e><p><l>window<s n="n"/></l><r>windo<s n="n"/></r></p></e>
+    <e><p><l>tree<s n="n"/></l><r>osisi<s n="n"/></r></p></e>
+    <e><p><l>eyes<s n="n"/></l><r>anya<s n="n"/></r></p></e>
+    <e><p><l>children<s n="n"/></l><r>ụmụaka<s n="n"/></r></p></e>
+    <e><p><l>inside<s n="n"/></l><r>n'ime<s n="n"/></r></p></e>
+    <e><p><l>hand<s n="n"/></l><r>aka<s n="n"/></r></p></e>
+    <e><p><l>head<s n="n"/></l><r>isi<s n="n"/></r></p></e>
+    <e><p><l>chairs<s n="n"/></l><r>oche<s n="n"/></r></p></e>
+    <e><p><l>table<s n="n"/></l><r>tebụl<s n="n"/></r></p></e>
+    <e><p><l>water<s n="n"/></l><r>mmiri<s n="n"/></r></p></e>
+    <e><p><l>animal<s n="n"/></l><r>anụmanụ<s n="n"/></r></p></e>
+    <e><p><l>weather<s n="n"/></l><r>ihu<b/>igwe<s n="n"/></r></p></e>
+    <e><p><l>today<s n="n"/></l><r>ubochita<s n="n"/></r></p></e>
+    <e><p><l>boy<s n="n"/></l><r>nwa<b/>nwoke<s n="n"/></r></p></e>
+    <e><p><l>girl<s n="n"/></l><r>nwa<b/>agbọghọ<s n="n"/></r></p></e>
+    <e><p><l>sister<s n="n"/></l><r>nwanne<b/>nwaanyi<s n="n"/></r></p></e>
+    <e><p><l>people<s n="n"/></l><r>ndị<b/>mmadụ<s n="n"/></r></p></e>
+    <e><p><l>sleeping<s n="n"/></l><r>na-ehi<b/>ụra<s n="n"/></r></p></e>
+    
+    
+    
+  
+    <!-- SECTION: pronoun -->
+    <e><p><l>what<s n="prn"/></l><r>gini<s n="prn"/></r></p></e>
+    <e><p><l>who<s n="prn"/></l><r>onye<s n="prn"/></r></p></e>
+    <e><p><l>she<s n="prn"/></l><r>ọ<s n="prn"/></r></p></e>
+    <e><p><l>he<s n="prn"/></l><r>ọ<s n="prn"/></r></p></e>
+    <e><p><l>it<s n="prn"/></l><r>ya<s n="prn"/></r></p></e>
+    <e><p><l>you<s n="prn"/></l><r>gị<s n="prn"/></r></p></e>
+    <e><p><l>we<s n="prn"/></l><r>anyị<s n="prn"/></r></p></e>
+    <e><p><l>us<s n="prn"/></l><r>anyị<s n="prn"/></r></p></e> 
+    <e><p><l>I<s n="prn"/></l><r>m<s n="prn"/></r></p></e>
+    <e><p><l>me<s n="prn"/></l><r>m<s n="prn"/></r></p></e>
+    <e><p><l>something<s n="prn"/></l><r>ihe<s n="prn"/></r></p></e>
+    <e><p><l>some<s n="prn"/></l><r>ụfọdụ<s n="prn"/></r></p></e>
+    <e><p><l>both<s n="prn"/></l><r>ha<b/>abụọ<s n="prn"/></r></p></e>
+    <e><p><l>another<s n="prn"/></l><r>ọzọ<s n="prn"/></r></p></e>
+    <e><p><l>they<s n="prn"/></l><r>ha<s n="prn"/></r></p></e>
+    <e><p><l>that<s n="prn"/></l><r>nkaa<s n="prn"/></r></p></e>
+    <e><p><l>anything<s n="prn"/></l><r>ihe<b/>obula<s n="prn"/></r></p></e>
+    
+     
+    <!-- SECTION: verb -->
+    <e><p><l>garden<s n="vblex"/></l><r>ogige<s n="vblex"/></r></p></e>
+    <e><p><l>question<s n="vblex"/></l><r>ajụjụ<s n="vblex"/></r></p></e>
+    <e><p><l>answer<s n="vblex"/></l><r>azịza<s n="vblex"/></r></p></e>
+    <e><p><l>sound<s n="vblex"/></l><r>ụda<s n="vblex"/></r></p></e>
+    <e><p><l>found<s n="vblex"/></l><r>chọtara<s n="vblex"/></r></p></e>
+    <e><p><l>have<s n="vblex"/></l><r>nwere<s n="vblex"/></r></p></e>
+    <e><p><l>has<s n="vblex"/></l><r>nwere<s n="vblex"/></r></p></e>
+    <e><p><l>tell<s n="vblex"/></l><r>gwa<s n="vblex"/></r></p></e>
+    <e><p><l>find<s n="vblex"/></l><r>chọta<s n="vblex"/></r></p></e>
+    <e><p><l>can<s n="vblex"/></l><r>nwere<b/>ike <s n="vblex"/></r></p></e>
+    <e><p><l>eat<s n="vblex"/></l><r>iri<s n="vblex"/></r></p></e>
+    <e><p><l>time<s n="vblex"/></l><r>oge<s n="vblex"/></r></p></e>
+    <e><p><l>drink<s n="vblex"/></l><r>ṅụọ<s n="vblex"/></r></p></e>
+    <e><p><l>says<s n="vblex"/></l><r>kwuoo<s n="vblex"/></r></p></e>
+    <e><p><l>laughs<s n="vblex"/></l><r>achị<b/>ọchị<s n="vblex"/></r></p></e>
+    <e><p><l>listens<s n="vblex"/></l><r>gee<b/>nti<s n="vblex"/></r></p></e>
+    <e><p><l>must<s n="vbmod"/></l><r>ga<s n="vbmod"/></r></p></e>
+    <e><p><l>be<s n="vbser"/></l><r>bụ<s n="vbser"/></r></p></e>
+    <e><p><l>hear<s n="vblex"/></l><r>inu<s n="vblex"/></r></p></e>
+    <e><p><l>looks<s n="vblex"/></l><r>lee<b/>anya<s n="vblex"/></r></p></e>
+    <e><p><l>walks<s n="vblex"/></l><r>agaghari<s n="vblex"/></r></p></e>
+    <e><p><l>want<s n="vblex"/></l><r>choo<s n="vblex"/></r></p></e>
+    <e><p><l>does<s n="vbdo"/></l><r>eme<s n="vbdo"/></r></p></e>
+    <e><p><l>did<s n="vbdo"/></l><r>mere<s n="vbdo"/></r></p></e>
+    <e><p><l>doing<s n="vbdo"/></l><r>eme<s n="vbdo"/></r></p></e>
+    <e><p><l>knows<s n="vblex"/></l><r>maara<s n="vblex"/></r></p></e>
+    <e><p><l>replies<s n="vblex"/></l><r>zaghachi<s n="vblex"/></r></p></e>
+    <e><p><l>went<s n="vblex"/></l><r>gara<s n="vblex"/></r></p></e>
+    <e><p><l>seen<s n="vblex"/></l><r>hụrụ<s n="vblex"/></r></p></e>
+    <e><p><l>play<s n="vblex"/></l><r>igwu<b/>egwu<s n="vblex"/></r></p></e>
+    <e><p><l>runs<s n="vblex"/></l><r>gbaaoso<s n="vblex"/></r></p></e>
+    <e><p><l>hiding<s n="vblex"/></l><r>ezo<s n="vblex"/></r></p></e>
+    <e><p><l>is<s n="vblex"/></l><r>nọ<s n="vblex"/></r></p></e>
+    <e><p><l>are<s n="vblex"/></l><r>nọ<s n="vblex"/></r></p></e>
+    <e><p><l>speak<s n="vblex"/></l><r>kwuo<s n="vblex"/></r></p></e>
+    <e><p><l>gets<s n="vblex"/></l><r>nweta<s n="vblex"/></r></p></e>
+    <e><p><l>thinks<s n="vblex"/></l><r>chee<s n="vblex"/></r></p></e>
+    <e><p><l>sitting<s n="vblex"/></l><r>ọdụ<s n="vblex"/></r></p></e>
+    <e><p><l>counting<s n="vblex"/></l><r>ọnọ<b/>ọgụgụ<s n="vblex"/></r></p></e>
+    <e><p><l>can't<s n="vblex"/></l><r>enweghị<b/>ike<s n="vblex"/></r></p></e>
+    <e><p><l>love<s n="vblex"/></l><r>ihu<b/>n'anya<s n="vblex"/></r></p></e>
+    <e><p><l>likes<s n="vblex"/></l><r>mmasị<s n="vblex"/></r></p></e>
+    
+    
+    <!-- SECTION: adjveb -->
+    <e><p><l>where<s n="adv"/></l><r>Ebee<s n="adv"/></r></p></e>
+    <e><p><l>very<s n="adv"/></l><r>ezigbo<s n="adv"/></r></p></e>
+    <e><p><l>no<s n="adv"/></l><r>mba<s n="adv"/></r></p></e>
+    <e><p><l>front<s n="adv"/></l><r>n'ihu<s n="adv"/></r></p></e>
+    <e><p><l>years<s n="adv"/></l><r>afọ<s n="adv"/></r></p></e>
+    <e><p><l>near<s n="adv"/></l><r>nso<s n="adv"/></r></p></e>
+    <e><p><l>around<s n="adv"/></l><r>gburugburu<s n="adv"/></r></p></e>
+    <e><p><l>probably<s n="adv"/></l><r>eleghị<b/>anya<s n="adv"/></r></p></e>
+    <e><p><l>slowly<s n="adv"/></l><r>nwayọọ<b/>nwayọọ<s n="adv"/></r></p></e>
+    <e><p><l>still<s n="adv"/></l><r>ka<s n="adv"/></r></p></e>
+    <e><p><l>under<s n="adv"/></l><r>n'okpuru<s n="adv"/></r></p></e>
+    <e><p><l>not<s n="adv"/></l><r>ọ<b/>bụghị<s n="adv"/></r></p></e>
+    <e><p><l>then<s n="adv"/></l><r>mgbe<b/>ahụ<s n="adv"/></r></p></e>
+    <e><p><l>when<s n="adv"/></l><r>mgbe<s n="adv"/></r></p></e>
+    <e><p><l>it<b/>is<s n="adv"/></l><r>ọ<b/>bụ<s n="adv"/></r></p></e>
+    <e><p><l>now<s n="adv"/></l><r>ugbua<s n="adv"/></r></p></e>
+    <e><p><l>again<s n="adv"/></l><r>ọzọ<s n="adv"/></r></p></e>
+    <e><p><l>there<s n="adv"/></l><r>ebeahu<s n="adv"/></r></p></e>
+    <e><p><l>well<s n="adv"/></l><r>nke<b/>oma<s n="adv"/></r></p></e>
+    <e><p><l>carefully<s n="adv"/></l><r>nke<b/>oma<s n="adv"/></r></p></e>
+    <e><p><l>could<s n="adv"/></l><r>nwere<b/>ike<s n="adv"/></r></p></e>
+    <e><p><l>everywhere<s n="adv"/></l><r>n'ebe<b/>nile<s n="adv"/></r></p></e> 
+    <e><p><l>yesterday<s n="adv"/></l><r>ụnyaahụ<s n="adv"/></r></p></e>
+    <e><p><l>always<s n="adv"/></l><r>mgbe<b/>niile<s n="adv"/></r></p></e>
+    <e><p><l>together<s n="adv"/></l><r>ọnụ<s n="adv"/></r></p></e>
+    <e><p><l>never<s n="adv"/></l><r>agaghị<s n="adv"/></r></p></e>
+    <e><p><l>quickly<s n="adv"/></l><r>ngwa<b/>ngwa<s n="adv"/></r></p></e>
+    <e><p><l>so<s n="adv"/></l><r>ya<b/>mere<s n="adv"/></r></p></e>
+    <e><p><l>why<s n="adv"/></l><r>maka<b/>gini<s n="adv"/></r></p></e>
+    
 
-      <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+    
+    <!-- SECTION: adjective -->
+    <e><p><l>outside<s n="adj"/></l><r>n'èzí <s n="adj"/></r></p></e>
+    <e><p><l>behind<s n="adj"/></l><r>n'azụ<s n="adj"/></r></p></e>
+    <e><p><l>nice<s n="adj"/></l><r>mma<s n="adj"/></r></p></e>
+    <e><p><l>big<s n="adj"/></l><r>nnukwu<s n="adj"/></r></p></e>
+    <e><p><l>old<s n="adj"/></l><r>ochie<s n="adj"/></r></p></e>
+    <e><p><l>little<s n="adj"/></l><r>nwatakịrị<s n="adj"/></r></p></e>
+    <e><p><l>cold<s n="adj"/></l><r>oyi<s n="adj"/></r></p></e>
+   <e><p><l>small<s n="adj"/></l><r>obere<s n="adj"/></r></p></e>
+   <e><p><l>finished<s n="adj"/></l><r>mechara<s n="adj"/></r></p></e>
+   <e><p><l>searching<s n="adj"/></l><r>nyocha<s n="adj"/></r></p></e>
+   <e><p><l>trying<s n="adj"/></l><r>na-anwa<s n="adj"/></r></p></e>
+   <e><p><l>happy<s n="adj"/></l><r>obi<b/>ụtọ<s n="adj"/></r></p></e>
+   <e><p><l>coming<s n="adj"/></l><r>abia<s n="adj"/></r></p></e>
+   <e><p><l>warm<s n="adj"/></l><r>ọkụ<s n="adj"/></r></p></e>
+   <e><p><l>closer<s n="adj"/></l><r>nso<s n="adj"/></r></p></e>
+   
+   
+    <!-- SECTION: conjuction -->
+    <e><p><l>and<s n="cnjcoo"/></l><r>na<s n="cnjcoo"/></r></p></e>
+    <e><p><l>but<s n="cnjcoo"/></l><r>mana<s n="cnjcoo"/></r></p></e>
+    <e><p><l>although<s n="cnjsub"/></l><r>ọ<b/>bụ<b/>ezie<b/>na<s n="cnjsub"/></r></p></e>  
+      
+      
+      
+    <!-- SECTION: Determiners -->  
+    <e><p><l>her<s n="det"/></l><r>ya<s n="det"/></r></p></e>
+    <e><p><l>their<s n="det"/></l><r>ha<s n="det"/></r></p></e>
+    <e><p><l>his<s n="det"/></l><r>ya<s n="det"/></r></p></e>
+    <e><p><l>him<s n="det"/></l><r>ya<s n="det"/></r></p></e>
+    <e><p><l>a<s n="det"/></l><r>  <s n="det"/></r></p></e>
+    
+    
+    
+    <!-- SECTION: Numerals -->
+    <e><p><l>two<s n="num"/></l><r>abụọ<s n="num"/></r></p></e>
+    <e><p><l>six<s n="num"/></l><r>isii<s n="num"/></r></p></e>
+    <e><p><l>five<s n="num"/></l><r>ise<s n="num"/></r></p></e>
+    
+     <!-- SECTION: preposition -->
+    <e><p><l>with<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
+    <e><p><l>through<s n="pr"/></l><r>site<s n="pr"/></r></p></e>
+    <e><p><l>behind<s n="pr"/></l><r>n'azu<s n="pr"/></r></p></e>
+    <e><p><l>from<s n="pr"/></l><r>site<s n="pr"/></r></p></e>
+    <e><p><l>of<s n="pr"/></l><r>nke<s n="pr"/></r></p></e>
+    <e><p><l>in<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
+    
+    <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
    </section>
 </dictionary>
+  
+    
 
 <!--
 Resources:
