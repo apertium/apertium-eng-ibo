@@ -1,0 +1,26 @@
+[-lH9Sav2dwXW#0] ^bụ<vbser><pres><p3><sg>$
+[/-lH9Sav2dwXW]
+[7cANTbgN3D6R#0] ^bụ<vbser><pres><p3><sg>$
+[/7cANTbgN3D6R]
+[BHagsS03yaea#0] ^bụ<vbser><pres><p3><sg>$ ^ọ bụghị<adv>$
+[/BHagsS03yaea]
+[EGsIYiSk2UXq#0] ^n'ime<n><sg>$
+[/EGsIYiSk2UXq]
+[Hw3JAhng1IwC#0] ^ga<vbmod><pres><p3><sg>$
+[/Hw3JAhng1IwC]
+[LmZZqjU5swAQ#0] ^bụ<vbser><pres><p3><sg>$
+[/LmZZqjU5swAQ]
+[WClnU00PkJ0Z#0] ^na<pr>$
+[/WClnU00PkJ0Z]
+[dhGQYtafX6Np#0] ^bụ<vbser><pres>$ ^ọ bụghị<adv>$
+[/dhGQYtafX6Np]
+[io3oI9XtPhJ0#0] ^?<sent>$
+[/io3oI9XtPhJ0]
+[qC_UyNRXZt7i#0] ^ebeahu<adv>$ ^bụ<vbser><pres>$
+[/qC_UyNRXZt7i]
+[u3IIvJtdfATx#0] ^!<sent>$
+[/u3IIvJtdfATx]
+[vMZJz9uMxVcF#0] ^chọtara<vblex><imp>$
+[/vMZJz9uMxVcF]
+[zbTuKuppzGqD#0] ^.<sent>$
+[/zbTuKuppzGqD]

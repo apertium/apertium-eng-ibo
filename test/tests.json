@@ -1,0 +1,10 @@
+{
+    "eng-ibo": {
+        "input": "eng-ibo-input.txt",
+        "mode": "eng-ibo"
+    },
+    "ibo-eng": {
+        "input": "ibo-eng-input.txt",
+        "mode": "ibo-eng"
+    }
+}

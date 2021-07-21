@@ -1,0 +1,26 @@
+[-lH9Sav2dwXW#0] ^be<vbser><pres><p3><sg>/bụ<vbser><pres><p3><sg>$
+[/-lH9Sav2dwXW]
+[7cANTbgN3D6R#0] ^be<vbser><pres><p3><sg>/bụ<vbser><pres><p3><sg>$
+[/7cANTbgN3D6R]
+[BHagsS03yaea#0] ^be<vbser><pres><p3><sg>/bụ<vbser><pres><p3><sg>$ ^not<adv>/ọ bụghị<adv>$
+[/BHagsS03yaea]
+[EGsIYiSk2UXq#0] ^inside<n><sg>/n'ime<n><sg>$
+[/EGsIYiSk2UXq]
+[Hw3JAhng1IwC#0] ^must<vbmod><pres><p3><sg>/ga<vbmod><pres><p3><sg>$
+[/Hw3JAhng1IwC]
+[LmZZqjU5swAQ#0] ^be<vbser><pres><p3><sg>/bụ<vbser><pres><p3><sg>$
+[/LmZZqjU5swAQ]
+[WClnU00PkJ0Z#0] ^in<pr>/na<pr>$
+[/WClnU00PkJ0Z]
+[dhGQYtafX6Np#0] ^be<vbser><pres>/bụ<vbser><pres>$ ^not<adv>/ọ bụghị<adv>$
+[/dhGQYtafX6Np]
+[io3oI9XtPhJ0#0] ^?<sent>/?<sent>$
+[/io3oI9XtPhJ0]
+[qC_UyNRXZt7i#0] ^there<adv>/ebeahu<adv>$ ^be<vbser><pres>/bụ<vbser><pres>$
+[/qC_UyNRXZt7i]
+[u3IIvJtdfATx#0] ^!<sent>/!<sent>$
+[/u3IIvJtdfATx]
+[vMZJz9uMxVcF#0] ^found<vblex><imp>/chọtara<vblex><imp>$
+[/vMZJz9uMxVcF]
+[zbTuKuppzGqD#0] ^.<sent>/.<sent>$
+[/zbTuKuppzGqD]

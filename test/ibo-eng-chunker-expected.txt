@@ -1,0 +1,16 @@
+[0DUCxD10owuT#0] ^default<default>{^,<cm>$}$
+[/0DUCxD10owuT]
+[BDpxh3TFcr2K#0] ^unknown<unknown>{^*s$}$
+[/BDpxh3TFcr2K]
+[CsomTYqpsiL6#0] ^unknown<unknown>{^*Eg$}$
+[/CsomTYqpsiL6]
+[QbgF6nrAFOI1#0] ^sent<SENT>{^;<sent>$}$
+[/QbgF6nrAFOI1]
+[glTDKakoUPbV#0] ^unknown<unknown>{^*k$}$
+[/glTDKakoUPbV]
+[qfUVZr1nBffq#0] ^unknown<unknown>{^*E$}$
+[/qfUVZr1nBffq]
+[xGlPLpPVxOfV#0] ^default<default>{^He<prn><pers><p3><sg><subj>$}$
+[/xGlPLpPVxOfV]
+[zbTuKuppzGqD#0] ^sent<SENT>{^.<sent>$}$
+[/zbTuKuppzGqD]
