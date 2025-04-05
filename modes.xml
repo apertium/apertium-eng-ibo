@@ -13,7 +13,7 @@
       <program name="cg-proc -w">
         <file name="eng-ibo.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g -x $2">
+      <program name="apertium-tagger -g $2">
         <file name="eng-ibo.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
